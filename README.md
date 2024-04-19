@@ -1,6 +1,7 @@
 # flutter_reorderable_list
 
-A new Flutter project.
+An example application to sort a list horizontally.
+Example taken from: [lunedam-git](https://gist.github.com/lunedam-git/d7583f25f3698998d51b49f1bcca2347)
 
 ## Getting Started
 
